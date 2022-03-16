@@ -1,0 +1,15 @@
+{
+  "name": "excel-calendar",
+  "version": "1.0.0",
+  "description": "Generates monthly planner in excel format",
+  "main": "src/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Veselov",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "exceljs": "^4.2.0",
+    "lodash": "^4.17.21"
+  }
+}
