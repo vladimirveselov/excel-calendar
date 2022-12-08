@@ -12,7 +12,7 @@ pnpm install
 node src/cli.js
 ```
 
-## Generate a calendar for the another year
+## Generate a calendar for a specific year
 
 ```bash
 node src/cli.js 2023
